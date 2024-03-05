@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<manifest identifier="ke-lNcMq9OQh_uopYRu8ccwhQOYk6Uqh-bjWnDmt" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Unlocking Machine Learning: Your Path to a Lucrative IT Career</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Unlocking Machine Learning: Your Path to a Lucrative IT Career</title>
+        <adlcp:datafromlms>eyJjcHYiOiItYmpXbkRtdCIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/0a3da7ca.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/8a904efb.js" />
+<file href="scormcontent/lib/rise/1b451569.css" />
+<file href="scormcontent/lib/rise/21f4e187.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/PK7EwFWcxb64SX2R_small.png" />
+<file href="scormcontent/assets/4OZGc0/stock-image.jpg" />
+<file href="scormcontent/assets/IgjmC8C1ELXHr4mu_transcoded-esqkkegxDg9z5bbP-invideo-ai-1080_2520Unlocking_2520Machine_2520Learning__2520Your_2520Path_2520to_25202024-01-22.0000000.jpg" />
+<file href="scormcontent/assets/6dG9j9lrN9qpbmYH_transcoded-esqkkegxDg9z5bbP-invideo-ai-1080_2520Unlocking_2520Machine_2520Learning__2520Your_2520Path_2520to_25202024-01-22.mp4" />
+<file href="scormcontent/assets/HSdPcesqkk9tbBwR_M4OzeMjmcSWDWzAY.jpg" />
+<file href="scormcontent/assets/GZpucF1Gz6ly-w4W__PcOiBB1AVK_XdZl.jpg" />
+<file href="scormcontent/assets/ZG9kOrYkfD16YX-q__NBR1z_Rx2Sotkay.jpg" />
+<file href="scormcontent/assets/PAb3T-e3d-MH_huR_NIMqw9gDCCnVJ9jW.jpg" />
+<file href="scormcontent/assets/HmFtH_ycW6Tyo967_nRxlsNoVWVaM_u0o.jpg" />
+<file href="scormcontent/assets/y1TOZW-zQla8Vu8Q_mountains.jpg" />
+<file href="scormcontent/assets/cQbOT2TjJudVGfhC_0qUdQR2sqkFQEarB.jpg" />
+<file href="scormcontent/assets/U4z_414TLB6qbv9n_tQ6-LD7njyTsrbUF.jpg" />
+<file href="scormcontent/assets/XKdwBN-Z-FgD4XpV_RUBnjUdnp0UlqAYj.jpg" />
+<file href="scormcontent/assets/FlySRwZH-EpwKNbL_6hGTk9HV1yoQ9u3D.png" />
+<file href="scormcontent/assets/Iws2feb3hmQYtw9U_qoyfEJ3YMSNKeGu9.jpg" />
+<file href="scormcontent/assets/THmAGf36gFbhHbiZ_hkDdaUr_mJmTS7vH.svg" />
+<file href="scormcontent/assets/UVqTrEC8I2NXjsiE_gJkA9Ox6TWDJBGJh.jpg" />
+<file href="scormcontent/assets/QvVnYcvjv2PlOISP_Y_5mnHoJ-uljnIJd.jpg" />
+<file href="scormcontent/assets/9afW4iZ9eFK35yiK_ALBbXHjQX_b6nN6_.jpg" />
+<file href="scormcontent/assets/B-n3amL8mmPLckEY_mSclbWFL1Tet2bT0.jpg" />
+<file href="scormcontent/assets/nwPRQBPJEc0tt9iQ_8NtuTy3qunRolL2n.jpg" />
+<file href="scormcontent/assets/sB2whHj9zPQLfZag_bEnsca_nfZlKHDAW.jpg" />
+<file href="scormcontent/assets/jY_8XvcoEcW6ummI_7yV9DOqLtLSOc9FI.jpg" />
+<file href="scormcontent/assets/MUoIyIKlcYa0QASi_EhPwBjb9pTS_ku_V.jpg" />
+<file href="scormcontent/assets/egMmiUp69DR0mx5G_7erOvz4RWAeNz9Q6.jpg" />
+<file href="scormcontent/assets/dZAnpJ_LRn2d_FG8_Y0yVtEaYtUsgBWpi.jpg" />
+<file href="scormcontent/assets/8W3RlqviQcWpSGwX_YE7Kc9tLwxueB3kM.jpg" />
+<file href="scormcontent/assets/6WGJWiRCRu2eH5Si_Mrtt5vqM9ef6e7AJ.jpg" />
+<file href="scormcontent/assets/xU9BFk/Jadebyte%20Academy%20Logo%20.jpg2024.jpg" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
